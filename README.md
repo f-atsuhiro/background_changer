@@ -16,5 +16,7 @@ exe化し過去に配布していた。
 
 ![スクリーンショット (2674)](https://github.com/f-atsuhiro/background_changer/assets/163499167/ac8fb29e-c9b3-4d55-a54f-a4fb77e67b6a)
 
+## オリジナルとの相違点
 
+現在main_.pyが設置されているが本来このファイルはmain.exeとして./assets/main_pg/に存在し、setup時にlocalappdataにコピーされるはずである。
 
